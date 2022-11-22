@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fauzi Hazim
-- 👀 I’m interested in Android Developer
+- 👀 I’m interested in Website Developer
 - 🌱 I’m currently learning Informatics in Telkom University
-- 💞️ I’m looking to collaborate on Android Development
+- 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me send email to fauzihazim28@gmail.com
 
 <!---
